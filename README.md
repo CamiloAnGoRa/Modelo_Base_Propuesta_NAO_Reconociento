@@ -6,7 +6,7 @@
 ## **Información Personal**
 - **Nombre:** Camilo Andres Gomez Rativa
 - **Carrera:** Ingeniería de Sistemas
-- **Semestre:** Noveno Semestres
+- **Semestre:** Noveno Semestre
 
 ## **Evaluación de la viabilidad del uso del robot NAO para el reconocimiento de emociones infantiles como apoyo en terapias emocionales en los consultorios de la Universidad Cooperativa de Colombia.**
 
@@ -29,3 +29,23 @@
 
 # Modelo_Base_Propuesta_NAO_Reconociento
 Modelo base propuesto para la implementacion de una nueva funcionalidad de reconocimiento emocional para la aplicación en Terapias psicológicas en la Universidad Cooperativa de Colombia
+
+
+---
+
+- En la fase 3 se genera este repositorio para ir creando un modelo base como propuesta y demostracion para la funcionalidad de reconocimiento emocional por medio de Inteligencia Artificial para el Robot NAO que se encuentra a disposicion de la Universidad Cooperativa de Colombia 
+
+ Analizando las librerias y bibliotecas que sirven con herramienta para la el reconocimiento emocional encontramos las siguientes
+
+ - DeepFace el cual es un framework ligero para reconocimiento facial y análisis de atributos faciales (edad, género, emoción y raza) para Python. Es un framework híbrido que envuelve modelos de vanguardia: VGG-Face, FaceNet, OpenFace, DeepFace, DeepID, ArcFace, Dlib, SFace, GhostFaceNet, Buffalo_L.
+
+ Para poder instalarlo necesitamos de los siguiente comando en consola dentro de un estorno Python
+
+ - pip install deepface
+ - pip install tf-keras
+ - pip install opencv-python
+
+ o tambien podemos resumir estas sentencias de la siguiente manera
+
+ - pip install deepface tf-keras opencv-python
+
